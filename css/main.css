@@ -58,7 +58,7 @@
 /* === Banner === */
 
 #banner{
-    background-image: url('/img/hero4.png');
+    background-image: url('./img/hero4.png');
     height: 90vh;
     background-size: cover;
     background-position: top 25% right 0;
@@ -79,7 +79,7 @@
 }
 
 .banner__button button{
-    background-image: url('/img/button.png');
+    background-image: url('./img/button.png');
     background-color: transparent;
     color: #088178;
     border: 0;
@@ -234,7 +234,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('/img/banner/b2.jpg');
+    background-image: url('./img/banner/b2.jpg');
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -282,7 +282,7 @@
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url('/img/banner/b17.jpg');
+    background-image: url('./img/banner/b17.jpg');
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -313,7 +313,7 @@
 }
 
 #sm__banner .sm__banner-box2    {
-    background-image: url('/img/banner/b10.jpg');
+    background-image: url('./img/banner/b10.jpg');
 }
 /* banner3 */
 #banner3{
@@ -333,7 +333,7 @@
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url('/img/banner/b7.jpg');
+    background-image: url('./img/banner/b7.jpg');
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -343,15 +343,15 @@
 }
 
 #banner3 .sm__banner-box2{
-    background-image: url('/img/banner/b4.jpg');
+    background-image: url('./img/banner/b4.jpg');
 }
 
 #banner3 .sm__banner-box3{
-    background-image: url('/img/banner/b18.jpg');
+    background-image: url('./img/banner/b18.jpg');
 }
 
 #banner3 .sm__banner-box4{
-    background-image: url('/img/banner/b4.jpg');
+    background-image: url('./img/banner/b4.jpg');
 }
 
 
@@ -371,7 +371,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url('/img/banner/b14.png');
+    background-image: url('./img/banner/b14.png');
     background-repeat: no-repeat;
     background-color: #041e42;
 }
